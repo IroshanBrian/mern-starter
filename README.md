@@ -14,7 +14,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application built w
 
 ```
 mern-app/
-│-- backend/   # Express + MongoDB (Node.js backend)
+│-- api/   # Express + MongoDB (Node.js backend)
 │   │   ├── main.ts
 │   ├── .env
 │   ├── tsconfig.json
